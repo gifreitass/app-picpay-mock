@@ -1,9 +1,3 @@
-import { Text, View } from "react-native";
+import HomePage from "./homepage";
 
-export default function HomePage() {
-    return (
-        <View style={{ flex: 1}}>
-            <Text>teste fdp indx index index index index</Text>
-        </View>
-    )
-}
+export default HomePage
